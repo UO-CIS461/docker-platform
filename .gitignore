@@ -1,3 +1,7 @@
+# We download RE-Flex rather than
+# cloning it into our repo
+RE-flex
+
 # Prerequisites
 *.d
 
